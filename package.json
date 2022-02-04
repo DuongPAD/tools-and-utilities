@@ -1,7 +1,7 @@
 {
   "name": "tools-and-utilities",
   "version": "0.1.0",
-  "homepage": "https://duongpad.github.io/tools-and-utilities/",
+  "homepage": "https://duongpad.github.io/tools-and-utilities",
   "private": true,
   "dependencies": {
     "@types/node": "^12.0.0",
@@ -43,7 +43,7 @@
     "eslint:fix": "eslint --cache '**/*.{js,jsx,ts,tsx}' --quiet --fix; exit 0;",
     "format": "prettier --write '**/*.{js,jsx,ts,tsx}'",
     "predeploy": "yarn build",
-    "deploy": "gh-pages -d build"
+    "deploy": "gh-pages -b master -d build"
   },
   "eslintConfig": {
     "extends": [

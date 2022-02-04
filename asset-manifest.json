@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/tools-and-utilities/static/css/main.f2201049.chunk.css",
+    "main.js": "/tools-and-utilities/static/js/main.b31eb048.chunk.js",
+    "main.js.map": "/tools-and-utilities/static/js/main.b31eb048.chunk.js.map",
+    "runtime-main.js": "/tools-and-utilities/static/js/runtime-main.4b03f9ba.js",
+    "runtime-main.js.map": "/tools-and-utilities/static/js/runtime-main.4b03f9ba.js.map",
+    "static/css/2.9082872e.chunk.css": "/tools-and-utilities/static/css/2.9082872e.chunk.css",
+    "static/js/2.ef29a6f3.chunk.js": "/tools-and-utilities/static/js/2.ef29a6f3.chunk.js",
+    "static/js/2.ef29a6f3.chunk.js.map": "/tools-and-utilities/static/js/2.ef29a6f3.chunk.js.map",
+    "index.html": "/tools-and-utilities/index.html",
+    "static/css/2.9082872e.chunk.css.map": "/tools-and-utilities/static/css/2.9082872e.chunk.css.map",
+    "static/css/main.f2201049.chunk.css.map": "/tools-and-utilities/static/css/main.f2201049.chunk.css.map",
+    "static/js/2.ef29a6f3.chunk.js.LICENSE.txt": "/tools-and-utilities/static/js/2.ef29a6f3.chunk.js.LICENSE.txt",
+    "static/media/logo.958e7d84.svg": "/tools-and-utilities/static/media/logo.958e7d84.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4b03f9ba.js",
+    "static/css/2.9082872e.chunk.css",
+    "static/js/2.ef29a6f3.chunk.js",
+    "static/css/main.f2201049.chunk.css",
+    "static/js/main.b31eb048.chunk.js"
+  ]
+}
